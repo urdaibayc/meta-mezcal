@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+example.py
+geckodriver.log
+keywords.txt
+venv/
+
