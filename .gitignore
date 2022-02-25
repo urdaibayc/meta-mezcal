@@ -3,4 +3,8 @@ example.py
 geckodriver.log
 keywords.txt
 venv/
+key.txt
+serpapi-checkpoint.ipynb
+serpapi_json_dump-checkpoint.ipynb
+
 
